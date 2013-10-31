@@ -18,3 +18,8 @@ gem 'liquid', '~> 2.3.0'
 gem 'directory_watcher', '1.4.1'
 
 gem 'sinatra', '~> 1.4.2'
+gem 'dalli'
+gem 'rack-cache'
+gem 'memcachier'
+gem 'newrelic_rpm'
+gem 'unicorn'
