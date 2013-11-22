@@ -32,6 +32,7 @@ sharing: true
           <li>Languages: C/C++, C#, Java, VB, Verilog, VDHL, PHP, SQL, HTML, Ruby</li>
           <li>Applications: MS Visual Studio, Eclipse, Subversion, Git, Mercurial, Quartus, Multisim, PSpice, Matlab, Solidworks, Autodesk, MS Office</li>
           <li>Operating Systems: Windows, UNIX</li>
+          <li>Professional Scrum Master I</li>
           <li>Able to simulate, prototype and analyse circuits using laboratry equipment.</li>
           <li>Ability to design and manufacture/fabricate prototype and production components using conventional and CNC machine shop equipment.</li>
        </ul>
